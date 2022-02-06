@@ -35,7 +35,7 @@ private val LightColorPalette = lightColors(
 )
 
 @Composable
-fun MyComposeApplicationTheme(
+fun LayoutsInJetpackComposeTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable () -> Unit
 ) {
